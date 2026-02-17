@@ -19,7 +19,7 @@ This repository contains my SQL practice solutions from various platforms.
 
 | Subdomain | Problems Solved |
 |-----------|-----------------|
-| [Basic Select]() | 20 |
+| [Basic Select](https://github.com/sateesh36/SQL-Practice-Portfolio/tree/main/HackerRank_Solutions/Basic-Select) | 20 |
 | Advanced Select | 10 |
 | Aggregation | 15 |
 | Basic Join | 12 |
