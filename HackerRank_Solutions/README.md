@@ -4,14 +4,6 @@
     </a>
 </p>
 
-
-This repository contains my SQL practice solutions from various platforms.
-
-## Platforms
-- HackerRank
-- Udemy SQL Bootcamp
-- Other practice sets
-
 ---
 
 ## HackerRank - SQL Subdomains
