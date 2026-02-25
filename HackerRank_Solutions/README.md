@@ -2,16 +2,7 @@
     <a href="https://www.hackerrank.com/RodneyShag">
         <img height=85 src="https://user-images.githubusercontent.com/1194257/65596422-1cef2080-df97-11e9-9abb-a225204d1805.png">
     </a>
-    <br>317 efficient solutions to HackerRank problems
 </p>
-
-
-This repository contains my SQL practice solutions from various platforms.
-
-## Platforms
-- HackerRank
-- Udemy SQL Bootcamp
-- Other practice sets
 
 ---
 
@@ -19,7 +10,7 @@ This repository contains my SQL practice solutions from various platforms.
 
 | Subdomain | Problems Solved |
 |-----------|-----------------|
-| [Basic Select]() | 20 |
+| [Basic Select](https://github.com/sateesh36/SQL-Practice-Portfolio/tree/main/HackerRank_Solutions/Basic-Select) | 20 |
 | Advanced Select | 10 |
 | Aggregation | 15 |
 | Basic Join | 12 |
